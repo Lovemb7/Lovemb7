@@ -5,7 +5,7 @@
 
 
 ## Programming
-### C, R, SQL
+### C, R, SQL, Bash, Java, Python
 
 
 ## Опыт работы
@@ -50,13 +50,13 @@
 - Финансовый университет, Корпоративные финансы (2025).  
 
 **Курсы**:  
-- **School 21** (QA Engineer, 2024): тест-дизайн, SQL, API-тестирование.  
+- **School 21** (QA Engineer, 2024): C, Linux, SQL, тест-дизайн, Python, Java, API-тестирование.  
 
 
 Дополнительно:
 **Тестирование учебного API**:  
 - Проверка REST API через Postman, составление чек-листов.  
-- Пример баг-репорта: [ссылка на Google Docs/GitHub].   
+- Пример баг-репорта: [GitHub].   
 
 
 ## Любовь Ткаченко | QA Engineer (Junior)  
@@ -64,7 +64,7 @@
 
 **Опыт работы**:  
 - Ручное тестирование (UI, API), Zephyr Scale, Jira, SQL.  
-- Школа программирования 21 (курс QA).  
+- Школа программирования 21 от Сбера (курс QA).  
 
 **Навыки**: Тест-дизайн, REST API, Linux, Git.  
 
@@ -72,13 +72,12 @@
 
 
 
-
-
+Иииии
 
 ```
 git add LOVE.c
 git commit "LOVE IS"
-git push origin "LOVE_IS_LOVE"
+git push origin "LOVE_IS_LOVEMB7"
 ```
 
 ✨ Resume ✨
